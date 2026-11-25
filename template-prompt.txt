@@ -1,0 +1,23 @@
+1. Contexto: Crie um protótipo de app [plataforma] para [nome do negócio], [o que ele faz e o que o diferencia].
+
+2. Público: [quem vai usar o app].
+
+3. Objetivo: [tarefa principal que o usuário precisa realizar].
+
+4. Fluxo: [n] telas, uma tarefa por tela: [Tela 1] → [Tela 2] → [Tela 3] → ...
+
+5. Conteúdo:
+- [Tela 1]: [o que aparece e quais componentes];
+- [Tela 2]: [o que aparece e quais componentes];
+- ...
+
+6. Estilo:
+- visual [sensação que o app deve transmitir];
+- cores: [fundo, botões, texto e detalhes, em hexadecimal];
+- fontes: [fonte dos textos] e [fonte dos destaques];
+- siga os princípios de design (contraste, hierarquia, alinhamento, margens e equilíbrio), as heurísticas de usabilidade e o Samsung One UI.
+
+7. Restrições:
+- [o que não deve aparecer no app];
+- textos em [idioma], [tom de voz];
+- [requisitos de acessibilidade, ex.: contraste mínimo de 4,5:1].

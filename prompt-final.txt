@@ -1,0 +1,26 @@
+1. Contexto: Crie um protótipo de app Android para o Le Classic Pilates, estúdio de Pilates Clássico com aulas individuais e personalizadas com a instrutora Alessandra Ferro.
+
+2. Público: alunos do estúdio.
+
+3. Objetivo: agendar uma aula em menos de 1 minuto, com poucos cliques e de forma intuitiva.
+
+4. Fluxo: 4 telas, uma tarefa por tela: Início → Data → Horário → Confirmação.
+
+5. Conteúdo:
+- Início: próxima aula agendada (com opções de remarcar e cancelar) e o botão "Agendar aula";
+- Data: calendário com os dias passados bloqueados;
+- Horário: horários livres no dia escolhido;
+- Confirmação: resumo da aula e mensagem de sucesso.
+
+6. Estilo:
+- visual clean e minimalista, que transmita calma, bem-estar e saúde, como a essência do estúdio;
+- cores: fundo bem claro #FAF9F6, cartões em #E9E7DF, botões em #003A70, texto em #101820 e detalhes em #C8B79D e #BECDD6;
+- fontes: Familjen Grotesk nos textos e Georgia nos destaques;
+- siga os princípios de design (contraste, hierarquia, alinhamento, margens e equilíbrio), as heurísticas de usabilidade e o Samsung One UI (ações na parte inferior, um único estilo de botão por tela, no máximo 3 botões na app bar e margens de 24dp).
+
+7. Restrições:
+- mostre só as informações essenciais;
+- sem frases explicativas acima dos botões: o título da tela e o texto do botão já indicam a ação;
+- informações extras ficam atrás de um ícone (i);
+- textos em português do Brasil, curtos e diretos;
+- contraste mínimo de 4,5:1 entre texto e fundo.
